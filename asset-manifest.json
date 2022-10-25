@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/us2s-demo/static/css/main.c91fc996.css",
-    "main.js": "/us2s-demo/static/js/main.3b8df34d.js",
+    "main.js": "/us2s-demo/static/js/main.ed90ff95.js",
     "static/media/brand-icons.svg": "/us2s-demo/static/media/brand-icons.6729d29753e000c17489.svg",
     "static/media/icons.svg": "/us2s-demo/static/media/icons.62d9dae4e0040e81c980.svg",
     "static/media/common_voice_fr_17583477.wav": "/us2s-demo/static/media/common_voice_fr_17583477.8bb40a9aa3665e51d688.wav",
     "static/media/common_voice_fr_17321196.wav": "/us2s-demo/static/media/common_voice_fr_17321196.2d5cb1db42b8d5c14b46.wav",
     "static/media/common_voice_es_19139686.wav": "/us2s-demo/static/media/common_voice_es_19139686.413fb3054f1a41404c4c.wav",
     "static/media/common_voice_fr_18474847.wav": "/us2s-demo/static/media/common_voice_fr_18474847.7ff605d5e6ff6e096307.wav",
-    "static/media/common_voice_fr_17320422.wav": "/us2s-demo/static/media/common_voice_fr_17320422.f735ca5fa47f587c3c5a.wav",
+    "static/media/common_voice_fr_17320422.wav": "/us2s-demo/static/media/common_voice_fr_17320422.6f1ae421cd2fa04dd4a9.wav",
     "static/media/common_voice_de_17306867.wav": "/us2s-demo/static/media/common_voice_de_17306867.5aa2ffe53b13f8dd1623.wav",
     "static/media/common_voice_de_17303170.wav": "/us2s-demo/static/media/common_voice_de_17303170.5e97f24d2d77f0af4272.wav",
-    "static/media/common_voice_es_19122896.wav": "/us2s-demo/static/media/common_voice_es_19122896.f8a7bb63a3217e61213c.wav",
+    "static/media/common_voice_es_19122896.wav": "/us2s-demo/static/media/common_voice_es_19122896.ba363972df24746d5376.wav",
     "static/media/outline-icons.svg": "/us2s-demo/static/media/outline-icons.9c4845b4b41ef40a22fa.svg",
     "static/media/icons.eot": "/us2s-demo/static/media/icons.a01e3f2d6c83dc3aee17.eot",
     "static/media/icons.ttf": "/us2s-demo/static/media/icons.c656b8caa454ed19b9a2.ttf",
@@ -20,7 +20,7 @@
     "static/media/brand-icons.ttf": "/us2s-demo/static/media/brand-icons.65a2fb6d9aaa164b41a0.ttf",
     "static/media/common_voice_es_18790687.wav": "/us2s-demo/static/media/common_voice_es_18790687.05e9952502d2de428ac5.wav",
     "static/media/common_voice_de_17300310.wav": "/us2s-demo/static/media/common_voice_de_17300310.fda588694912b84b958c.wav",
-    "static/media/common_voice_de_17301689.wav": "/us2s-demo/static/media/common_voice_de_17301689.4d242da874586563bf04.wav",
+    "static/media/common_voice_de_17301689.wav": "/us2s-demo/static/media/common_voice_de_17301689.c9929bb9b40fcd8cd521.wav",
     "static/media/brand-icons.woff": "/us2s-demo/static/media/brand-icons.cac87dc00c87a5d74711.woff",
     "static/media/brand-icons.woff2": "/us2s-demo/static/media/brand-icons.278156e41e0ad908cf7f.woff2",
     "static/media/icons.woff": "/us2s-demo/static/media/icons.425399f81e4ce7cbd967.woff",
@@ -32,10 +32,10 @@
     "static/media/outline-icons.woff2": "/us2s-demo/static/media/outline-icons.687a4990ea22bb1a49d4.woff2",
     "index.html": "/us2s-demo/index.html",
     "main.c91fc996.css.map": "/us2s-demo/static/css/main.c91fc996.css.map",
-    "main.3b8df34d.js.map": "/us2s-demo/static/js/main.3b8df34d.js.map"
+    "main.ed90ff95.js.map": "/us2s-demo/static/js/main.ed90ff95.js.map"
   },
   "entrypoints": [
     "static/css/main.c91fc996.css",
-    "static/js/main.3b8df34d.js"
+    "static/js/main.ed90ff95.js"
   ]
 }
